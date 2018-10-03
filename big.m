@@ -20,7 +20,7 @@ function big(varargin)
 %
 % big([LEFT BOTTOM WIDTH HEIGHT])
 % A 4-element vector can also be passed to reset the default size explicitly.
-%
+% 
 % last modified 2010-dec-17
 % dbtm
 
